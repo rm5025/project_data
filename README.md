@@ -1,1 +1,1 @@
-Text Detection in an Image, Using Python,OpenCV, EasyOCR
+Text Detection in an Image, using Python,OpenCV, EasyOCR
